@@ -1,6 +1,6 @@
 # NHTSA NODEJS API
 
-## Installation instructions**
+## Installation instructions
 Run the following commands:
 1. git clone `https://github.com/allroundexperts/nhtsa-node.git`
 2. npm install
